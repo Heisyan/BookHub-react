@@ -1,6 +1,6 @@
 import React from 'react';
 import "./About.css";
-import aboutImg from "../../images/about-img.jpg";
+import aboutImg from "../../images/takahiro-taguchi-Qa-L33FnQ9o-unsplash.jpg";
 
 const About = () => {
   return (
@@ -16,8 +16,13 @@ const About = () => {
           </div>
           <div className='about-text'>
             <h2 className='about-title fs-26 ls-1'>About BookHub</h2>
-            <p className='fs-17'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus dignissimos consequuntur vero commodi provident maiores, iusto atque corrupti voluptate vel sequi consectetur unde aliquam corporis saepe animi non, tempora reiciendis molestias sed laudantium dolores. Assumenda aperiam fuga quo voluptate commodi ullam aliquam expedita voluptas delectus.</p>
-            <p className='fs-17'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, dicta, possimus inventore eveniet atque voluptatibus repellendus aspernatur illo aliquam dignissimos illum. Commodi, porro omnis dolore amet neque modi quas eum!</p>
+            <p className='fs-17'>BookHub adalah platform katalog buku digital inovatif yang dirancang untuk memudahkan pencinta buku menemukan karya-karya yang mereka cari. Didirikan pada 
+              tahun 2024, BookHub hadir sebagai solusi modern bagi pembaca yang menginginkan akses cepat dan mudah ke informasi buku dari berbagai genre, penulis, dan penerbit. Platform 
+              kami menggunakan teknologi pencarian canggih yang memungkinkan pengguna untuk menjelajahi ribuan judul buku dengan mudah, dilengkapi dengan fitur rekomendasi personal 
+              yang memahami preferensi membaca setiap pengguna. Dengan antarmuka yang intuitif dan database yang terus diperbarui, BookHub berkomitmen untuk menjadi jembatan penghubung 
+              antara pembaca dan dunia literasi yang luas, memastikan setiap orang dapat menemukan buku yang tepat untuk memperkaya pengetahuan dan mengisi waktu luang mereka dengan 
+              bacaan berkualitas.</p>
+
           </div>
         </div>
       </div>

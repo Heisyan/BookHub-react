@@ -9,8 +9,9 @@ const Header = () => {
         <header className='header'>
             <Navbar />
             <div className='header-content flex flex-c text-center text-white'>
-                <h2 className='header-title text-capitalize'>find your book of choice.</h2><br />
-                <p className='header-text fs-18 fw-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam beatae sapiente quibusdam consequatur perspiciatis facere laboriosam non nesciunt at id repudiandae, modi iste? Eligendi, rerum!</p>
+                <h2 className='header-title text-capitalize'>Temukan buku favorit Anda.</h2><br />
+                <p className='header-text fs-18 fw-3'>Portal Literasi Terlengkap yang Mempertemukan Anda dengan Karya-Karya Terbaik dari Penulis 
+                  Legendaris Hingga Penulis Kontemporer. Jelajahi, Temukan, dan Biarkan Setiap Buku Membawa Anda ke Petualangan Baru.</p>
                 <SearchForm />
             </div>
         </header>
